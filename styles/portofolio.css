@@ -102,3 +102,15 @@ nav .menu a
     max-width: 585px;
     vertical-align: middle;
 }
+
+#about
+{
+    margin-top: 130px;
+
+}
+#about .about-content
+{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
